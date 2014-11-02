@@ -1,0 +1,17 @@
+{
+    "context": "server",
+    "identifier": "com.pa.lyrid.RedenbacherDeluxe",
+    "display_name": "Redenbacher Deluxe",
+    "description": "Build time is 10x faster, leading to fast-paced, massive wars.",
+    "author": "lyrid",
+    "version": "0.5",
+    "build": "74525",
+    "date": "2014/11/02",
+    "icon": "http://i.imgur.com/tp01bHP.png",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "enabled": true
+}
