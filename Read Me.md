@@ -4,10 +4,9 @@ Redenbacher Deluxe
 ==================
 Redenbacher Deluxe is a server-side mod for Planetary Annihilation. It promotes frenetic, massive wars by increasing build speed by a factor of 10. 
 
-However, mexes still build at normal speed. This retains their importance to the game. 
 AI Tweaks
 ---------
-There's a UI mod called "Redenbacher AI Tweaks," available on PAMM, which is *required* if you intend to play AI Skirmishes with Redenbacher. Otherwise, expect a really dumb opponent with the stock AI.
+There's a UI mod called "Redenbacher AI Tweaks," available on [PAMM](https://forums.uberent.com/threads/rel-pa-mod-manager-cross-platform.59992/), which is *required* if you intend to play AI Skirmishes with Redenbacher. Otherwise, expect a really dumb opponent with the stock AI.
 
 Details
 -------

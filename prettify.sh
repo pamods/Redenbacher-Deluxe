@@ -1,4 +1,7 @@
 #!/bin/sh
+# make pretty all .json files under current directory
+# so I can grok them better.
+
 # needs json_reformat command provided by yajl ("brew install yajl")
 find . | while read file; do
   if [[ ${file: -9} != "temp.json" ]] ; then 
