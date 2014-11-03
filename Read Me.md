@@ -11,7 +11,7 @@ There's a UI mod called "Redenbacher AI Tweaks," available on PAMM, which is *re
 
 Details
 -------
-Mexes produce 5x more metal to offset the speed demand. So do jigs.
+Mexes produce 3x more metal to offset the speed demand. So do jigs.
 
 All builders (factories, commanders, fabbers) build 10x their normal speed.
 
