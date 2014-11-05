@@ -4,7 +4,7 @@
     "description": "!LOC(units:advanced_manufacturing_produces_metal_can_only_be_placed_on_metal_deposits.message):Advanced manufacturing- Produces metal, can only be placed on metal deposits.",
     "strategic_icon_priority": 5,
     "max_health": 500,
-    "build_metal_cost": 6000,
+    "build_metal_cost": 2000,
     "atrophy_rate": 33.3333,
     "atrophy_cool_down": 15.0,
     "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",

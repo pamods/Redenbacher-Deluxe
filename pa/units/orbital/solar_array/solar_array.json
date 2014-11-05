@@ -15,7 +15,7 @@
         }
     },
     "production": {
-        "energy": 2000
+        "energy": 16000
     },
     "unit_types": [
         "UNITTYPE_Mobile",
